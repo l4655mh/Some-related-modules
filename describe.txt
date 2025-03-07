@@ -1,0 +1,1 @@
+Some modules that perform well for continuous interaction force estimation
